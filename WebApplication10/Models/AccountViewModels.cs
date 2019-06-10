@@ -9,7 +9,7 @@ namespace WebApplication10.Models
         [Display(Name = "Email")]
         public string Email { get; set; }
     }
-
+    //comment
     public class ExternalLoginListViewModel
     {
         public string ReturnUrl { get; set; }
